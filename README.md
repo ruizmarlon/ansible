@@ -1,5 +1,5 @@
 # ansible
 
-[using playbooks}
+[using playbooks]
 
 sudo ansible-playbook (playbook.yml) -k -K
